@@ -1,4 +1,4 @@
-# Bruteforce-Detection-Splunk
+# splunk-security-monitoring-lab
 Bruteforce detection on Splunk Enterprise using self-created log files.
 # Brute Force Detection and Alerting Using Splunk
 
