@@ -1,6 +1,5 @@
 # splunk-security-monitoring-lab
 Bruteforce detection on Splunk Enterprise using self-created log files.
-# Brute Force Detection and Alerting Using Splunk
 
 ## Overview
 This project demonstrates the detection of brute-force login attacks using Splunk. Custom authentication log files were created to simulate both legitimate and malicious login activity. The logs were ingested into Splunk, analyzed using SPL queries, visualized through dashboards, and monitored with automated alerts for suspicious behavior.
